@@ -9,6 +9,9 @@ ATMega328P MCU, coupled with Arduino Nano, was used for handling the analog sign
 
 ## Dependencies
 Note: All dependencies used are the latest version for each package.
+### Package
+- [PlatformIO](https://platformio.org/) -> Used for creating the packages firmware, flashing, and deploying onto ATMega328P MCU.
+
 ### Main Firmware
 - [Avrdudes/AVR](https://github.com/avrdudes/avr-libc)
 - [Arduino C Library](https://docs.arduino.cc/libraries/)
